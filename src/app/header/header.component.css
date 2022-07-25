@@ -1,0 +1,34 @@
+.navbar-form{
+    position: relative;
+    max-width:300px;
+  }
+
+  .exampleFormControlInput1{
+    max-width: 400px;
+    height:80px;
+  }
+
+  .image1{
+    margin-left: 90px;
+  }
+
+  .fas{
+    margin-right: 150px;
+  }
+
+  #fas{
+    margin-right: 30px;
+  }
+
+  #floatright{
+    margin-left: 530px;
+  }
+
+  /* #frtfloat{
+    margin-left: 90px;
+  } */
+
+  #listitem{
+    margin-left: 90px;
+  }
+ 
